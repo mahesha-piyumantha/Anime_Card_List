@@ -1,5 +1,7 @@
 import Image from "next/image";
 
+// anime card component
+
 export interface AnimeProp {
   id: string;
   name: string;
