@@ -1,3 +1,5 @@
+// this is referred to as the server action
+
 "use server";
 
 export const fetchAnime = async (page: number) => {
